@@ -16,7 +16,6 @@ The data for this project is sourced from the Kaggle dataset
 Link: [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Schema
-## Schema
 
 ```sql
 CREATE TABLE netflix (
